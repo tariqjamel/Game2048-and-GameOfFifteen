@@ -1,0 +1,184 @@
+type: edu
+files:
+  - name: src/board/Board.kt
+    visible: true
+    learner_created: false
+  - name: src/board/BoardImpl.kt
+    visible: true
+    placeholders:
+      - offset: 64
+        length: 2159
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 90
+        initialized_from_dependency: false
+        selected: true
+        status: Unchecked
+      - offset: 2276
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 149
+        initialized_from_dependency: false
+        selected: true
+        status: Unchecked
+    learner_created: false
+  - name: src/games/game/Game.kt
+    visible: true
+    learner_created: false
+  - name: src/games/game2048/Game2048.kt
+    visible: true
+    placeholders:
+      - offset: 632
+        length: 105
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 1227
+        initialized_from_dependency: false
+        selected: true
+        status: Unchecked
+      - offset: 1283
+        length: 1240
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 1705
+        initialized_from_dependency: false
+        selected: true
+        status: Unchecked
+      - offset: 1539
+        length: 984
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 2052
+        initialized_from_dependency: false
+        selected: true
+        status: Unchecked
+    learner_created: false
+  - name: src/games/game2048/Game2048Helper.kt
+    visible: true
+    placeholders:
+      - offset: 1189
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 730
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/games/game2048/Game2048Initializer.kt
+    visible: true
+    placeholders:
+      - offset: 671
+        length: 10
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 820
+        initialized_from_dependency: false
+        selected: true
+        status: Unchecked
+    learner_created: false
+  - name: src/games/gameOfFifteen/GameOfFifteen.kt
+    visible: true
+    placeholders:
+      - offset: 430
+        length: 26
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 385
+        initialized_from_dependency: false
+        selected: true
+        status: Unchecked
+    learner_created: false
+  - name: src/games/gameOfFifteen/GameOfFifteenHelper.kt
+    visible: true
+    placeholders:
+      - offset: 79
+        length: 214
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 480
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/games/gameOfFifteen/GameOfFifteenInitializer.kt
+    visible: true
+    placeholders:
+      - offset: 571
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 576
+        initialized_from_dependency: false
+        selected: true
+        status: Unchecked
+    learner_created: false
+  - name: src/games/ui/PlayGame.kt
+    visible: true
+    learner_created: false
+  - name: src/games/ui/PlayGame2048.kt
+    visible: true
+    learner_created: false
+  - name: src/games/ui/PlayGameOfFifteen.kt
+    visible: true
+    learner_created: false
+  - name: test/games/game2048/AbstractTestGameWithSmallNumbers.kt
+    visible: true
+    learner_created: false
+  - name: test/games/game2048/TestAddingValue.kt
+    visible: true
+    learner_created: false
+  - name: test/games/game2048/TestGame2048.kt
+    visible: true
+    learner_created: false
+  - name: test/games/game2048/TestGame2048Helper.kt
+    visible: true
+    learner_created: false
+  - name: test/games/game2048/TestGame2048Initializer.kt
+    visible: true
+    learner_created: false
+  - name: test/games/board/TestGameBoard.kt
+    visible: true
+    learner_created: false
+  - name: test/games/gameOfFifteen/TestGameOfFifteen.kt
+    visible: true
+    learner_created: false
+  - name: test/games/gameOfFifteen/TestGameOfFifteenHelper.kt
+    visible: true
+    learner_created: false
+  - name: test/games/gameOfFifteen/TestGameOfFifteenInitializer.kt
+    visible: true
+    learner_created: false
+  - name: test/games/game2048/TestMoveValues.kt
+    visible: true
+    learner_created: false
+  - name: test/games/game2048/TestMoveValuesInRowOrColumn.kt
+    visible: true
+    learner_created: false
+  - name: test/games/board/TestSquareBoard.kt
+    visible: true
+    learner_created: false
+  - name: partId
+    visible: false
+    learner_created: false
+  - name: assignmentKey
+    visible: false
+    learner_created: false
+feedback_link: https://www.coursera.org/learn/kotlin-for-java-developers/programming/NSid0/game-2048-game-of-fifteen/discussions
+status: Unchecked
+feedback:
+  message: "Submission successful, please <a href=\"https://www.coursera.org/learn/kotlin-for-java-developers/programming/NSid0/game-2048-game-of-fifteen/submission\"\
+    >check the status on Coursera</a>"
+  time: "Mon, 02 Jun 2025 17:14:50 UTC"
+record: -1
