@@ -28,6 +28,11 @@ The Game of Fifteen (also known as the 15-puzzle) is a sliding puzzle consisting
 - Win condition check
 - Random shuffle on start
 
+ **Screenshot:**
+
+![Game of Fifteen Screenshot](Game2048.png)
+![Game of Fifteen Screenshot](GameOfFifteen.png)
+
 ## 🛠️ Tech Stack
 
 - **Language**: Kotlin
